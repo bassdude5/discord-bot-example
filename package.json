@@ -1,0 +1,12 @@
+{
+  "name": "discord-bot-example",
+  "version": "1.0.0",
+  "description": "Simple exmple bot for discord",
+  "main": "bot.js",
+  "auth": "Michael Welte",
+  "dependencies": {
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+    "winston": "^3.3.3"
+  },
+  "license": "GNU General Public License (GPL)"
+}
